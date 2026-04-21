@@ -1,1 +1,1 @@
-# sextortion-artifact-CCS26
+# artifact-submission
